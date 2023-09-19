@@ -30,7 +30,7 @@ switch (true) {
     case time >= 18 && time <= 23:
         alert(time + ' часа/часов вечера');
         break;
-    default: alert('Вы ввели не корктную форму времени')
+    default: alert('Вы ввели не коректную форму времени')
         break;
 }
 
